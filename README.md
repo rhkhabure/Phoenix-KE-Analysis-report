@@ -1,2 +1,3 @@
-# R-Studio-stuff
-This is a collection of my R studio codes and projects
+# Phoenix Ke Analytics
+This is research on publicly available data on from the Phoenix Ke Instagram page. From their research on what the current data analysis and science field in Kenya.
+
