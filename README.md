@@ -28,5 +28,10 @@ The financial technology (fintech) sector stands out as the leading industry for
 ## Recommnedations
 To enhance gender equality, it is recommended that Phoenix KE prioritize the data engineering sector, which currently exhibits a significant underrepresentation of women. This initiative may be realized through the expansion of existing data workshops to include an additional focus on data engineering. Furthermore, the Phoenix KE immersion program could be segmented into three primary data domains to facilitate targeted learning.
 
+## Contributing
+I welcome contributions! Please fork the repository, make your changes, and submit a pull request.
+
+
+
 In addition, masterclasses should be instituted to provide foundational data knowledge to individuals from industries outside of the data sector. These masterclasses could cover essential skills such as Microsoft Excel, the Pandas library, data visualization techniques, and introductory Python programming. It is important to note that the current and future masterclasses are designed for individuals who already possess a basic understanding of the data industry, thus emphasizing the need for entry-level offerings.
 
