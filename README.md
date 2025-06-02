@@ -26,7 +26,7 @@ Furthermore, it is noted that established companies tend to offer higher salarie
 The financial technology (fintech) sector stands out as the leading industry for data professionals, while agriculture, finance, and technology communication are recognized as the highest-paying sectors within this domain.
 
 ## Screenshot
-
+![Description of Image](Images/Home.png)
 ## Recommnedations
 To enhance gender equality, it is recommended that Phoenix KE prioritize the data engineering sector, which currently exhibits a significant underrepresentation of women. This initiative may be realized through the expansion of existing data workshops to include an additional focus on data engineering. Furthermore, the Phoenix KE immersion program could be segmented into three primary data domains to facilitate targeted learning.
 
