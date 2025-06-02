@@ -25,6 +25,8 @@ According to Susan's observations, there exists a pronounced gender disparity wi
 Furthermore, it is noted that established companies tend to offer higher salaries than startups. The data sector is relatively small but experiencing growth, with most professionals possessing between three to five years of experience. Notably, data engineers generally have a higher concentration of individuals with seven or more years of experience in the field.
 The financial technology (fintech) sector stands out as the leading industry for data professionals, while agriculture, finance, and technology communication are recognized as the highest-paying sectors within this domain.
 
+## Screenshot
+
 ## Recommnedations
 To enhance gender equality, it is recommended that Phoenix KE prioritize the data engineering sector, which currently exhibits a significant underrepresentation of women. This initiative may be realized through the expansion of existing data workshops to include an additional focus on data engineering. Furthermore, the Phoenix KE immersion program could be segmented into three primary data domains to facilitate targeted learning.
 
